@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.hx setf json
+autocmd BufNewFile,BufRead *.hx setf haxe
